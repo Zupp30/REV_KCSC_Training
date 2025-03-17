@@ -1,0 +1,8 @@
+﻿  API_Resolve.c
+D:\Backup\REVERSING\Training\LQK\TASK3\API_Resolve\API_Resolve\API_Resolve.c(115,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Backup\REVERSING\Training\LQK\TASK3\API_Resolve\API_Resolve\API_Resolve.c(116,9): error C2065: 'mov': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK3\API_Resolve\API_Resolve\API_Resolve.c(116,13): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Backup\REVERSING\Training\LQK\TASK3\API_Resolve\API_Resolve\API_Resolve.c(116,13): error C2065: 'eax': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK3\API_Resolve\API_Resolve\API_Resolve.c(116,18): error C2065: 'fs': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK3\API_Resolve\API_Resolve\API_Resolve.c(116,20): error C2143: syntax error: missing ';' before ':'
+D:\Backup\REVERSING\Training\LQK\TASK3\API_Resolve\API_Resolve\API_Resolve.c(147,1): error C1004: unexpected end-of-file found
