@@ -1,0 +1,39 @@
+﻿  AntiDebug.cpp
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(21,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(22,7): error C2065: 'ecx': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(22,3): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(22,12): error C2065: 'ecx': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(23,3): error C2146: syntax error: missing ';' before identifier 'rdtsc'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(23,3): error C2065: 'rdtsc': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(24,3): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(24,3): error C2065: 'mov': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(24,7): error C2146: syntax error: missing ';' before identifier 'Start'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(24,22): error C2065: 'eax': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(25,3): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(25,3): error C2065: 'mov': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(25,7): error C2146: syntax error: missing ';' before identifier 'Start'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(25,23): error C2065: 'edx': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(26,2): error C2143: syntax error: missing ';' before '}'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(27,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(28,7): error C2065: 'ecx': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(28,3): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(28,12): error C2065: 'ecx': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(29,3): error C2146: syntax error: missing ';' before identifier 'rdtsc'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(29,3): error C2065: 'rdtsc': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(30,3): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(30,3): error C2065: 'mov': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(30,7): error C2146: syntax error: missing ';' before identifier 'End'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(30,20): error C2065: 'eax': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(31,3): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(31,3): error C2065: 'mov': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(31,7): error C2146: syntax error: missing ';' before identifier 'End'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(31,21): error C2065: 'edx': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(32,2): error C2143: syntax error: missing ';' before '}'
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(43,20): error C3861: '__readfsdword': identifier not found
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(55,15): warning C4312: 'type cast': conversion from 'unsigned int' to 'HANDLE' of greater size
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(85,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(85,13): error C2065: 'eax': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(85,9): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(85,18): error C2065: 'eax': undeclared identifier
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(86,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Backup\REVERSING\Training\LQK\TASK2\AntiDebug\AntiDebug\AntiDebug.cpp(86,13): error C2059: syntax error: 'constant'
